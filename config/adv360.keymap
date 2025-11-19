@@ -59,7 +59,7 @@
             display-name = "Base";
             bindings = <
 &kp ESCAPE  &kp N1     &kp N2        &kp N3    &kp N4     &kp N5  &kp NUMBER_6                                                               &mo 2               &kp N6  &kp N7  &kp N8     &kp N9    &kp N0         &kp EQUAL
-&kp MINUS   &kp Q      &kp G         &kp M     &kp L      &kp W   &alt_tab                                                                   &kp LC(LS(ESCAPE))  &kp Y   &kp F   &kp U      &kp B     &kp SEMICOLON  &kp BSLH
+&kp MINUS   &kp Q      &kp G         &kp M     &kp L      &kp W   &kp LA(TAB)                                                                &kp LC(LS(ESCAPE))  &kp Y   &kp F   &kp U      &kp B     &kp SEMICOLON  &kp BSLH
 &kp TAB     &kp D      &kp S         &kp T     &kp N      &kp R   &mt K_PASTE K_COPY  &kp PAGE_UP    &kp LALT       &kp CAPSLOCK  &kp RCTRL  &kp LC(LA(DELETE))  &kp I   &kp A   &kp E      &kp O     &kp H          &kp SQT
 &kp LSHFT   &kp Z      &kp X         &kp C     &kp V      &kp J                                      &mkp LCLK      &kp HOME                                     &kp K   &kp P   &kp COMMA  &kp DOT   &kp FSLH       &kp RSHFT
 &mo 1       &kp GRAVE  &kp LEFT_GUI  &kp LEFT  &kp RIGHT          &kp SPACE           &kp BACKSPACE  &kp LCTRL      &kp END       &kp ENTER  &kp SPACE                   &kp UP  &kp DOWN   &kp LBKT  &kp RBKT       &mo 1
